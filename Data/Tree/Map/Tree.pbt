@@ -100,64 +100,6 @@ Objects {
   }
 }
 Objects {
-  Id: 11228111070872911578
-  Name: "Wall"
-  Transform {
-    Location {
-      X: -200
-      Y: -200
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1571288810510636526
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Wall"
-  }
-}
-Objects {
-  Id: 13315425492236375326
-  Name: "Ground"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1571288810510636526
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Ground"
-  }
-}
-Objects {
   Id: 9958030339292997856
   Name: "Environment"
   Transform {
@@ -190,9 +132,10 @@ Objects {
   Name: "Team Base 2"
   Transform {
     Location {
+      X: -3314.6709
+      Y: -7526.78516
     }
     Rotation {
-      Yaw: 7.17169678e-05
     }
     Scale {
       X: 1

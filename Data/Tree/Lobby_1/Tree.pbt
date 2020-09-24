@@ -17,7 +17,6 @@ Objects {
     }
   }
   ParentId: 1881060102115220313
-  ChildIds: 9755686282036432396
   ChildIds: 16934336268594612342
   UnregisteredParameters {
   }
@@ -147,154 +146,16 @@ Objects {
   }
 }
 Objects {
-  Id: 9755686282036432396
-  Name: "Geometry"
-  Transform {
-    Location {
-      X: -800
-      Y: 400
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4731258467709583290
-  ChildIds: 6211794397564647326
-  ChildIds: 7539602601739050250
-  UnregisteredParameters {
-  }
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 7539602601739050250
-  Name: "Whitebox Wall 01"
-  Transform {
-    Location {
-      Y: -410
-    }
-    Rotation {
-      Yaw: 89.9999542
-    }
-    Scale {
-      X: 1
-      Y: 0.5
-      Z: 0.8
-    }
-  }
-  ParentId: 9755686282036432396
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Building_WallInner:id"
-      AssetReference {
-        Id: 10057500872737833917
-      }
-    }
-    Overrides {
-      Name: "ma:Building_WallInner2:id"
-      AssetReference {
-        Id: 10057500872737833917
-      }
-    }
-  }
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 7732336536218767972
-    }
-    Teams {
-      UseTeamColor: true
-      TeamInt: 1
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 6211794397564647326
-  Name: "Whitebox Wall 01"
-  Transform {
-    Location {
-      Y: 400
-    }
-    Rotation {
-      Yaw: -3.05175672e-05
-    }
-    Scale {
-      X: 1
-      Y: 0.5
-      Z: 0.8
-    }
-  }
-  ParentId: 9755686282036432396
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Building_WallInner:id"
-      AssetReference {
-        Id: 10057500872737833917
-      }
-    }
-    Overrides {
-      Name: "ma:Building_WallInner2:id"
-      AssetReference {
-        Id: 10057500872737833917
-      }
-    }
-  }
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 7732336536218767972
-    }
-    Teams {
-      UseTeamColor: true
-      TeamInt: 1
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
   Id: 5196527960719088801
   Name: "Spawn Points"
   Transform {
     Location {
-      X: 1599.99805
-      Y: -0.00200271304
+      X: -1729.93811
+      Y: -1549.13867
       Z: 125
     }
     Rotation {
-      Yaw: 60
+      Yaw: 59.999958
     }
     Scale {
       X: 1
