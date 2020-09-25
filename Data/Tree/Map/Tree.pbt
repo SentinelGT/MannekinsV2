@@ -1,6 +1,89 @@
 ﻿Name: "Map"
 RootId: 1571288810510636526
 Objects {
+  Id: 16366671484375785390
+  Name: "Plane 1m - Two Sided"
+  Transform {
+    Location {
+      X: -787.186523
+      Y: 2278.38525
+      Z: -0.88599205
+    }
+    Rotation {
+    }
+    Scale {
+      X: 347.688324
+      Y: 284.616974
+      Z: 239.804825
+    }
+  }
+  ParentId: 1571288810510636526
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18435138787060449355
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9693200808902352341
+  Name: "MapWhitebox"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1571288810510636526
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 32874778117913616
+      value {
+        Overrides {
+          Name: "Name"
+          String: "MapWhitebox"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16100097864780716923
+    }
+  }
+}
+Objects {
   Id: 14462058594142499845
   Name: "Kill Zone"
   Transform {
