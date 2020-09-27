@@ -32,7 +32,7 @@
       }
       Objects {
         Id: 503681998163126313
-        Name: "First Person Player Settings"
+        Name: "Seeker Player Settings"
         Transform {
           Location {
           }
@@ -54,7 +54,6 @@
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         Settings {
-          IsDefault: true
           PlayerMovementSettings {
             WalkSpeed: 640
             MaxAcceleration: 1800

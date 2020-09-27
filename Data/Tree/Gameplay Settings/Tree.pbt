@@ -96,12 +96,8 @@ Objects {
       key: 503681998163126313
       value {
         Overrides {
-          Name: "IsDefaultSettings"
-          Bool: false
-        }
-        Overrides {
-          Name: "Name"
-          String: "Seeker Player Settings"
+          Name: "PlayerWalkSpeed"
+          Float: 800
         }
       }
     }
