@@ -51,6 +51,18 @@ Objects {
   ChildIds: 6546217521368648559
   ChildIds: 14642173163801281777
   ChildIds: 16079929853741796571
+  ChildIds: 1444424579649516027
+  ChildIds: 1863812740260402906
+  ChildIds: 4554420203370253681
+  ChildIds: 17196503306509958025
+  ChildIds: 2597060940522318455
+  ChildIds: 18370304804733777324
+  ChildIds: 13408455969631875738
+  ChildIds: 13110921741157113749
+  ChildIds: 3190679435218709261
+  ChildIds: 15868332300445065681
+  ChildIds: 12160768270865550122
+  ChildIds: 2941712016337450457
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -60,6 +72,641 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 2941712016337450457
+  Name: "Storefront"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12180557446868831892
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Storefront"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3376.44263
+            Y: 4424.16455
+            Z: -0.100585938
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 66.1005325
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15094690994482177881
+    }
+  }
+}
+Objects {
+  Id: 12160768270865550122
+  Name: "Storefront"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12180557446868831892
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Storefront"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -6259.83691
+            Y: 11522.3555
+            Z: -2.60835266
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999847
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15094690994482177881
+    }
+  }
+}
+Objects {
+  Id: 15868332300445065681
+  Name: "Storefront"
+  Transform {
+    Location {
+      X: 11457.1045
+      Y: 10402.8848
+      Z: -0.100524902
+    }
+    Rotation {
+      Yaw: 41.2212029
+    }
+    Scale {
+      X: -1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 1315741451204176676
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 13110921741157113749
+    SubobjectId: 12180557446868831892
+    InstanceId: 9891753065532969389
+    TemplateId: 15094690994482177881
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 1315741451204176676
+  Name: "Storefront"
+  Transform {
+    Location {
+      X: -1194.66406
+      Y: 729.53418
+      Z: 6.10351563e-05
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15868332300445065681
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Storefront"
+  }
+  InstanceHistory {
+    SelfId: 17307475338004601809
+    SubobjectId: 17062398132398033616
+    InstanceId: 9891753065532969389
+    TemplateId: 15094690994482177881
+  }
+}
+Objects {
+  Id: 3190679435218709261
+  Name: "Storefront"
+  Transform {
+    Location {
+      X: 10952.832
+      Y: 9420.07324
+      Z: -0.100524902
+    }
+    Rotation {
+      Yaw: 41.2211876
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 9068128543308423075
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 13110921741157113749
+    SubobjectId: 12180557446868831892
+    InstanceId: 9891753065532969389
+    TemplateId: 15094690994482177881
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 9068128543308423075
+  Name: "Storefront"
+  Transform {
+    Location {
+      X: 34.6313171
+      Y: 314.679871
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3190679435218709261
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Storefront_1"
+  }
+  InstanceHistory {
+    SelfId: 17307475338004601809
+    SubobjectId: 17062398132398033616
+    InstanceId: 9891753065532969389
+    TemplateId: 15094690994482177881
+  }
+}
+Objects {
+  Id: 13110921741157113749
+  Name: "Storefront"
+  Transform {
+    Location {
+      X: 12011.9541
+      Y: 8167.48926
+      Z: -0.100463867
+    }
+    Rotation {
+      Yaw: 41.2211685
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 17307475338004601809
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 13110921741157113749
+    SubobjectId: 12180557446868831892
+    InstanceId: 9891753065532969389
+    TemplateId: 15094690994482177881
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 17307475338004601809
+  Name: "Storefront"
+  Transform {
+    Location {
+      X: 34.6313171
+      Y: 314.679871
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13110921741157113749
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Storefront_2"
+  }
+  InstanceHistory {
+    SelfId: 17307475338004601809
+    SubobjectId: 17062398132398033616
+    InstanceId: 9891753065532969389
+    TemplateId: 15094690994482177881
+  }
+}
+Objects {
+  Id: 13408455969631875738
+  Name: "You are here sign"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 8759795585852134539
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3.08023453
+            Y: 25.9459515
+            Z: 142.270905
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 2.73207552e-05
+            Yaw: 89.999939
+            Roll: 89.9999466
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14134504179027301900
+      value {
+        Overrides {
+          Name: "Name"
+          String: "You are here sign"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 13370.9482
+            Y: 2699.70044
+            Z: 24.4436226
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -95.5340576
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1389151339773002926
+    }
+  }
+}
+Objects {
+  Id: 18370304804733777324
+  Name: "Storefront"
+  Transform {
+    Location {
+      X: 10036.8008
+      Y: -4960.32617
+      Z: -0.100708008
+    }
+    Rotation {
+      Yaw: -54.1902733
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2758105212069636856
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -79.0830078
+            Y: -1.14331055
+            Z: 332.951874
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12180557446868831892
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Storefront"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 12543.0371
+            Y: -2287.18726
+            Z: -0.100830078
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: -1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15094690994482177881
+    }
+  }
+}
+Objects {
+  Id: 2597060940522318455
+  Name: "Storefront"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12180557446868831892
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Storefront"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10036.8008
+            Y: -4960.32617
+            Z: -0.100708008
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -54.1902771
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15094690994482177881
+    }
+  }
+}
+Objects {
+  Id: 17196503306509958025
+  Name: "Storefront"
+  Transform {
+    Location {
+      X: -1577.43396
+      Y: -6250.76904
+      Z: -0.100585938
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12180557446868831892
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Storefront"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1422.07581
+            Y: -4006.15845
+            Z: -0.100585938
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999969
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15094690994482177881
+    }
+  }
+}
+Objects {
+  Id: 4554420203370253681
+  Name: "Storefront"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12180557446868831892
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Storefront"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1577.43396
+            Y: -6250.76904
+            Z: -0.100585938
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15094690994482177881
+    }
+  }
+}
+Objects {
+  Id: 1863812740260402906
+  Name: "Storefront"
+  Transform {
+    Location {
+      X: 889.981445
+      Y: 13343.0928
+      Z: -0.100585938
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2758105212069636856
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -79.0966797
+            Y: -1.14538574
+            Z: 335.103577
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12180557446868831892
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Storefront"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -958.692505
+            Y: 13343.0928
+            Z: -0.100585938
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: -1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15094690994482177881
+    }
+  }
+}
+Objects {
+  Id: 1444424579649516027
+  Name: "Storefront"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12180557446868831892
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Storefront"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 879.127686
+            Y: 13343.0928
+            Z: -0.100585938
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15094690994482177881
+    }
   }
 }
 Objects {
