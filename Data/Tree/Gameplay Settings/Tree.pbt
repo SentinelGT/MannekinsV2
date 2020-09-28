@@ -93,6 +93,15 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 503681998163126313
+      value {
+        Overrides {
+          Name: "PlayerWalkSpeed"
+          Float: 800
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 18143788354451018607
       value {
         Overrides {
@@ -107,14 +116,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
           }
         }
       }
@@ -151,7 +152,7 @@ Objects {
     RespawnSettings {
       RespawnDelay: 5
       RespawnMode_v2 {
-        Value: "mc:erespawnmode:roundrobin"
+        Value: "mc:erespawnmode:farthestfromenemy"
       }
     }
   }

@@ -1,10 +1,10 @@
 ﻿Assets {
-  Id: 18435138787060449355
-  Name: "Plane 1m - Two Sided"
+  Id: 8962601777427635306
+  Name: "Craftsman Coffee Table"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_plane_1m_002"
+    AssetId: "sm_urb_coffee_table_001"
   }
 }
 Assets {
