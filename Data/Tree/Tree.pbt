@@ -21,6 +21,7 @@ Objects {
   ChildIds: 31697259873160561
   ChildIds: 17671690939753302466
   ChildIds: 7237116713043177765
+  ChildIds: 12187433704700465921
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30,6 +31,111 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 12187433704700465921
+  Name: "Trigger"
+  Transform {
+    Location {
+      X: 848.762756
+      Y: 1203.93176
+      Z: 84.1141663
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8568336417442047963
+  ChildIds: 13203227245082580316
+  ChildIds: 3836926684589413826
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:box"
+    }
+  }
+}
+Objects {
+  Id: 3836926684589413826
+  Name: "boneRemove"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12187433704700465921
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1055631011757421691
+    }
+  }
+}
+Objects {
+  Id: 13203227245082580316
+  Name: "Craftsman Coffee Table"
+  Transform {
+    Location {
+      X: -3.40820313
+      Y: -11.0515137
+      Z: -40.0252914
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.326945513
+      Y: 0.326945513
+      Z: 0.326945513
+    }
+  }
+  ParentId: 12187433704700465921
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8962601777427635306
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
   }
 }
 Objects {
