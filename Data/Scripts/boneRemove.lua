@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-﻿function removeBoneInvent(trigger, object)
-	if object ~= nil and object:IsA("Player") then
-	
-		object:RemoveResource("bones", 1)
-		
-	end
-end
-
-script.parent.beginOverlapEvent:Connect(removeBoneInvent)
-=======
 ﻿--when a player overlaps a trigger box increment resource(s)
 function handleOverlap(trigger, object)
 	local boneValue = object:GetResource("bones")
@@ -26,4 +15,4 @@ end
 
 --executes the trigger box to do something
 script.parent.beginOverlapEvent:Connect(handleOverlap)
->>>>>>> bbailey
+
