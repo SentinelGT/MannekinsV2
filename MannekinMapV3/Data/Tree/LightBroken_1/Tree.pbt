@@ -55,14 +55,14 @@ Objects {
   Name: "Urban Pipe Straight"
   Transform {
     Location {
-      X: -146.836349
-      Y: 135.181183
-      Z: -58.2465057
+      X: -147.133392
+      Y: 125.322632
+      Z: -65.3939209
     }
     Rotation {
-      Pitch: -83.3166809
-      Yaw: 38.3593483
-      Roll: -42.9064636
+      Pitch: -83.316925
+      Yaw: 38.3593712
+      Roll: -42.9066467
     }
     Scale {
       X: 0.531095445
