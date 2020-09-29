@@ -1,6 +1,45 @@
 ﻿Name: "FoodCourtGroup_3"
 RootId: 8166397766564345880
 Objects {
+  Id: 8275835758440616880
+  Name: "Craftsman Dining Table"
+  Transform {
+    Location {
+      X: -1023.38013
+      Y: -2232.58691
+    }
+    Rotation {
+      Pitch: 1.51919103
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8166397766564345880
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5107992326007078762
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 6335883007147280240
   Name: "Craftsman Dining Chair"
   Transform {
