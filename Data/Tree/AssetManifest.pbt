@@ -1,99 +1,315 @@
 ﻿Assets {
-  Id: 16229420591786926398
-  Name: "Ambience Underwater Designed 01 SFX"
-  PlatformAssetType: 7
-  PrimaryAsset {
-    AssetType: "AudioAssetRef"
-    AssetId: "sfx_ambience_underwater_designed_01_Cue_ref"
-  }
-}
-Assets {
-  Id: 15122811339479650577
-  Name: "Floor Candle Holder 01"
+  Id: 18221715539137815606
+  Name: "Tree Oak Stump 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_fantasy_candle_holder_floor_001"
+    AssetId: "sm_tree_oak_stump_001"
   }
 }
 Assets {
-  Id: 14624206278367305726
-  Name: "Bone Human Ribcage 01"
+  Id: 17925326465180611494
+  Name: "Cube"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_ribcage_01_ref"
+    AssetId: "sm_cube_002"
   }
 }
 Assets {
-  Id: 13658093099423424256
-  Name: "Bone Human Skull 01"
+  Id: 17911711828760765539
+  Name: "Cabinet Door"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_skull_01_ref"
+    AssetId: "sm_urb_cabinet_door_001"
   }
 }
 Assets {
-  Id: 13247741113203078435
-  Name: "Bone Human Hand 01"
+  Id: 16962323108948175690
+  Name: "Fern 04"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_hand_01_ref"
+    AssetId: "sm_fern_generic_004"
   }
 }
 Assets {
-  Id: 10358485830497066884
-  Name: "Bone Human Jaw 01"
+  Id: 16169631996408605052
+  Name: "Bush 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_jaw_01_ref"
+    AssetId: "sm_bush_generic_002"
   }
 }
 Assets {
-  Id: 9199751096616988864
-  Name: "Candle Flame VFX"
+  Id: 16132958878921067135
+  Name: "Sign Bracket - Square"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "fxsm_candleflame"
+    AssetId: "sm_signbracket_square_001"
   }
 }
 Assets {
-  Id: 7021231311894261078
-  Name: "Bone Human Ulna 01"
+  Id: 16098448331828160739
+  Name: "Bush 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_ulna_01_ref"
+    AssetId: "sm_bush_generic_001"
   }
 }
 Assets {
-  Id: 5541165279716685461
-  Name: "Bone Human Scapula 01"
+  Id: 15873205170164909781
+  Name: "Bush Leafy Tall 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_scap_01_ref"
+    AssetId: "sm_foliage_gen_leafy_bush_001"
   }
 }
 Assets {
-  Id: 2426334796669994136
-  Name: "Gem - Diamond 6-Sided Polished"
+  Id: 15785632616159744013
+  Name: "Tree Birch 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_diamond_6_sided_polished_001"
+    AssetId: "sm_tree_birch_003"
   }
 }
 Assets {
-  Id: 169766117913160404
-  Name: "Amethyst"
+  Id: 15188485714163013182
+  Name: "Tree Oak Bare 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_oak_002"
+  }
+}
+Assets {
+  Id: 13679274479232561439
+  Name: "Tree Oak 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_oak_001"
+  }
+}
+Assets {
+  Id: 12727779490957401907
+  Name: "Tree Birch 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_birch_001"
+  }
+}
+Assets {
+  Id: 12095835209017042614
+  Name: "Cube"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_002"
+  }
+}
+Assets {
+  Id: 11483660644916358221
+  Name: "Tree Birch Bare 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_birch_004"
+  }
+}
+Assets {
+  Id: 10184847056121543272
+  Name: "Basic Material"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "fxmi_amethyst"
+    AssetId: "mi_basic_pbr_material_001"
+  }
+}
+Assets {
+  Id: 9281133040157119378
+  Name: "Tree Birch Bare 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_birch_002"
+  }
+}
+Assets {
+  Id: 9127403868165138502
+  Name: "Metal Iron Rusted 02"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_iron_003"
+  }
+}
+Assets {
+  Id: 9061191228558034527
+  Name: "Metal Iron 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_iron_001"
+  }
+}
+Assets {
+  Id: 7625382804772008570
+  Name: "Glass 01 (no distortion)"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_basic_glass_001"
+  }
+}
+Assets {
+  Id: 7530738191831508950
+  Name: "Frosted Glass No Distortion"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_frosted_glass_nodistortion"
+  }
+}
+Assets {
+  Id: 7207447429829396156
+  Name: "Glass 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_basic_glass_refrac_001"
+  }
+}
+Assets {
+  Id: 6379586963016838217
+  Name: "Leafy Patch 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_leafy_groundcover_002"
+  }
+}
+Assets {
+  Id: 5833220963122756667
+  Name: "Cube - Bottom-Aligned"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_001"
+  }
+}
+Assets {
+  Id: 5399742206583901768
+  Name: "Clover Patch 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_clover_patch_002"
+  }
+}
+Assets {
+  Id: 5282054947644540032
+  Name: "Fern 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fern_generic_001"
+  }
+}
+Assets {
+  Id: 5107992326007078762
+  Name: "Craftsman Dining Table"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_table_dining_001"
+  }
+}
+Assets {
+  Id: 5017267879465940489
+  Name: "Clover Patch 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_clover_patch_001"
+  }
+}
+Assets {
+  Id: 4920386619550871038
+  Name: "Cylinder - Rounded Small"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cylinder_rounded_003"
+  }
+}
+Assets {
+  Id: 4693276836184572547
+  Name: "Fern 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fern_generic_003"
+  }
+}
+Assets {
+  Id: 3974210477928059464
+  Name: "Craftsman Dining Chair"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_chair_dining_001"
+  }
+}
+Assets {
+  Id: 3433416882178080463
+  Name: "Street Sign - Rectangle"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_street-sign_rectangle_001"
+  }
+}
+Assets {
+  Id: 3065901096143451113
+  Name: "Bush Leafy Low 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_leafy_bush_002"
+  }
+}
+Assets {
+  Id: 2284528296746139719
+  Name: "Fern 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fern_generic_002"
+  }
+}
+Assets {
+  Id: 119848165123714712
+  Name: "Leafy Patch 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_leafy_groundcover_001"
+  }
+}
+Assets {
+  Id: 42978658809131988
+  Name: "Rubber Tiles 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_scf_rubber_panels_002_uv"
   }
 }

@@ -1,26 +1,31 @@
-﻿Name: "FoodCourtGroup_1"
-RootId: 12146712774857022824
+﻿Name: "StorefrontGate"
+RootId: 6214693690488451373
 Objects {
-  Id: 14072403191782370908
-  Name: "Craftsman Dining Chair"
+  Id: 694012401757406047
+  Name: "Cube"
   Transform {
     Location {
-      X: -2490
-      Y: -2677.58691
-      Z: 10
+      X: -0.315612793
+      Y: 3.45739746
+      Z: 28.5093689
     }
     Rotation {
-      Pitch: 0.754927099
-      Yaw: 87.8825073
-      Roll: -90.4661255
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.154442132
+      Y: 3.75013757
+      Z: 3.19348097
     }
   }
-  ParentId: 12146712774857022824
+  ParentId: 6214693690488451373
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15412550581134835266
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -29,7 +34,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3974210477928059464
+      Id: 12095835209017042614
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -43,23 +48,30 @@ Objects {
   }
 }
 Objects {
-  Id: 16956988491148910107
-  Name: "Craftsman Dining Chair"
+  Id: 1044309261753564868
+  Name: "Cube"
   Transform {
     Location {
-      X: -186.650146
-      Z: -3.05175781e-05
+      X: -0.315612793
+      Y: -187.875732
     }
     Rotation {
-      Yaw: -48.9993591
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.388081044
+      Y: 0.756585836
+      Z: 2.73787308
     }
   }
-  ParentId: 12146712774857022824
+  ParentId: 6214693690488451373
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 6143914579442842348
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -68,7 +80,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3974210477928059464
+      Id: 12095835209017042614
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -82,24 +94,30 @@ Objects {
   }
 }
 Objects {
-  Id: 1099311859463691596
-  Name: "Craftsman Dining Chair"
+  Id: 14245086794368270523
+  Name: "Cube"
   Transform {
     Location {
-      X: 242.517929
-      Z: 0.000152587891
+      X: -0.315612793
+      Y: 185.503967
     }
     Rotation {
-      Yaw: 89.9998169
-      Roll: -86.5511169
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.388081044
+      Y: 0.756585836
+      Z: 2.73787308
     }
   }
-  ParentId: 12146712774857022824
+  ParentId: 6214693690488451373
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 6143914579442842348
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -108,7 +126,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3974210477928059464
+      Id: 12095835209017042614
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -122,62 +140,38 @@ Objects {
   }
 }
 Objects {
-  Id: 6898896185021124714
-  Name: "Craftsman Dining Table"
+  Id: 10804064469198192439
+  Name: "Arch"
   Transform {
     Location {
-      Z: -21.4317856
+      X: 0.946746826
+      Y: -1.08569336
+      Z: 135.84137
     }
     Rotation {
-      Pitch: 2.38630414
+      Pitch: 3.4150944e-05
+      Yaw: -90
+      Roll: 89.9995651
     }
     Scale {
-      X: 1
+      X: 3
       Y: 1
-      Z: 1
+      Z: 0.25
     }
   }
-  ParentId: 12146712774857022824
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 5107992326007078762
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
+  ParentId: 6214693690488451373
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 6143914579442842348
       }
     }
-  }
-}
-Objects {
-  Id: 10973447716290937495
-  Name: "Craftsman Dining Chair"
-  Transform {
-    Location {
-      X: 40.512146
-      Y: -233.596191
-      Z: -25.0471497
-    }
-    Rotation {
-      Yaw: 25.8556938
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
     }
   }
-  ParentId: 12146712774857022824
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -186,7 +180,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3974210477928059464
+      Id: 7451355518903862295
     }
     Teams {
       IsTeamCollisionEnabled: true
