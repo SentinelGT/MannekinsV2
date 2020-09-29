@@ -1,8 +1,15 @@
 ﻿Assets {
+<<<<<<< HEAD
   Id: 434313680092537034
   Name: "Custom Waterfall from Waterfall 90 Outer Corner_1"
   PlatformAssetType: 13
   SerializationVersion: 65
+=======
+  Id: 6120245005647635243
+  Name: "Custom Waterfall from Waterfall 90 Outer Corner_1"
+  PlatformAssetType: 13
+  SerializationVersion: 63
+>>>>>>> DaveS
   CustomMaterialAsset {
     BaseMaterialId: 3886905007360380566
     ParameterOverrides {

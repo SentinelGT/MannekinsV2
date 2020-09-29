@@ -1,5 +1,9 @@
 ﻿Assets {
+<<<<<<< HEAD
   Id: 10510383663269461676
+=======
+  Id: 17723708239995402501
+>>>>>>> DaveS
   Name: "Creepy Mall Fountain"
   PlatformAssetType: 5
   TemplateAsset {
@@ -87,7 +91,11 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 4704660763563083589
+=======
+              Id: 11139310943720539840
+>>>>>>> DaveS
             }
           }
           Overrides {
@@ -373,7 +381,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -455,7 +467,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -541,7 +557,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -627,7 +647,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -713,7 +737,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -800,7 +828,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -886,7 +918,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -973,7 +1009,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -1060,7 +1100,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -1149,7 +1193,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -1196,7 +1244,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -1243,7 +1295,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -1290,7 +1346,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -1337,7 +1397,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -1383,7 +1447,11 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 4704660763563083589
+=======
+              Id: 11139310943720539840
+>>>>>>> DaveS
             }
           }
           Overrides {
@@ -1621,7 +1689,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -1703,7 +1775,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -1789,7 +1865,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -1875,7 +1955,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -1961,7 +2045,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -2048,7 +2136,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -2134,7 +2226,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -2221,7 +2317,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -2308,7 +2408,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -2443,7 +2547,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -2490,7 +2598,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -2537,7 +2649,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -2584,7 +2700,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -2631,7 +2751,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -2722,7 +2846,11 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 4704660763563083589
+=======
+              Id: 11139310943720539840
+>>>>>>> DaveS
             }
           }
           Overrides {
@@ -2869,7 +2997,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -2951,7 +3083,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -3037,7 +3173,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -3123,7 +3263,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -3209,7 +3353,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -3296,7 +3444,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -3382,7 +3534,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -3469,7 +3625,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -3556,7 +3716,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -3676,7 +3840,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -3758,7 +3926,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -3844,7 +4016,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -3930,7 +4106,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -4016,7 +4196,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -4103,7 +4287,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -4189,7 +4377,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -4276,7 +4468,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -4363,7 +4559,11 @@
         }
         Script {
           ScriptAsset {
+<<<<<<< HEAD
             Id: 10752448405497710611
+=======
+            Id: 896120158098010472
+>>>>>>> DaveS
           }
         }
       }
@@ -4452,7 +4652,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -4499,7 +4703,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -4546,7 +4754,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -4593,7 +4805,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -4640,7 +4856,11 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 434313680092537034
+=======
+              Id: 6120245005647635243
+>>>>>>> DaveS
             }
           }
         }
@@ -4731,7 +4951,11 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
+<<<<<<< HEAD
               Id: 4704660763563083589
+=======
+              Id: 11139310943720539840
+>>>>>>> DaveS
             }
           }
           Overrides {
@@ -5532,6 +5756,10 @@
   Marketplace {
     Description: "A fountain for Mannekins (current work in progress)"
   }
+<<<<<<< HEAD
   SerializationVersion: 65
+=======
+  SerializationVersion: 63
+>>>>>>> DaveS
   DirectlyPublished: true
 }

@@ -1,5 +1,9 @@
 ﻿Assets {
+<<<<<<< HEAD
   Id: 11110389226242706887
+=======
+  Id: 10342556206157396378
+>>>>>>> DaveS
   Name: "Creepy Mall Fountain"
   PlatformAssetType: 5
   TemplateAsset {
@@ -22,7 +26,11 @@
         Folder {
           BundleDummy {
             ReferencedAssets {
+<<<<<<< HEAD
               Id: 10510383663269461676
+=======
+              Id: 17723708239995402501
+>>>>>>> DaveS
             }
           }
         }
@@ -40,5 +48,9 @@
     Version: "1.0.0"
     Description: "A fountain for Mannekins (current work in progress)"
   }
+<<<<<<< HEAD
   SerializationVersion: 65
+=======
+  SerializationVersion: 63
+>>>>>>> DaveS
 }

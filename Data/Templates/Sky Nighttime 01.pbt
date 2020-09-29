@@ -1,5 +1,9 @@
 ﻿Assets {
+<<<<<<< HEAD
   Id: 11282526797537898501
+=======
+  Id: 1089066793758673334
+>>>>>>> DaveS
   Name: "Sky Nighttime 01"
   PlatformAssetType: 5
   TemplateAsset {
@@ -471,5 +475,9 @@
       AssetId: "Sky_Nighttime_01"
     }
   }
+<<<<<<< HEAD
   SerializationVersion: 65
+=======
+  SerializationVersion: 63
+>>>>>>> DaveS
 }
