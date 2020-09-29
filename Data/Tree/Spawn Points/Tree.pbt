@@ -28,6 +28,7 @@ Objects {
   }
   PlayerSpawnPoint {
     TeamInt: 2
+    PlayerScaleMultiplier: 1
   }
 }
 Objects {
@@ -58,6 +59,7 @@ Objects {
   }
   PlayerSpawnPoint {
     TeamInt: 2
+    PlayerScaleMultiplier: 1
   }
 }
 Objects {
@@ -89,6 +91,7 @@ Objects {
   }
   PlayerSpawnPoint {
     TeamInt: 2
+    PlayerScaleMultiplier: 1
   }
 }
 Objects {
@@ -120,6 +123,7 @@ Objects {
   }
   PlayerSpawnPoint {
     TeamInt: 2
+    PlayerScaleMultiplier: 1
   }
 }
 Objects {
@@ -150,6 +154,7 @@ Objects {
   }
   PlayerSpawnPoint {
     TeamInt: 2
+    PlayerScaleMultiplier: 1
   }
 }
 Objects {
@@ -180,6 +185,7 @@ Objects {
   }
   PlayerSpawnPoint {
     TeamInt: 2
+    PlayerScaleMultiplier: 1
   }
 }
 Objects {
@@ -210,6 +216,7 @@ Objects {
   }
   PlayerSpawnPoint {
     TeamInt: 2
+    PlayerScaleMultiplier: 1
   }
 }
 Objects {
@@ -240,5 +247,6 @@ Objects {
   }
   PlayerSpawnPoint {
     TeamInt: 2
+    PlayerScaleMultiplier: 1
   }
 }

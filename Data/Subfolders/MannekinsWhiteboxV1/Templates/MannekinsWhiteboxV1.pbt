@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "Whitebox map v1 of mannekins map"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

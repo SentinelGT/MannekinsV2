@@ -1,11 +1,10 @@
 ﻿Name: "Props"
 RootId: 7445102165972326779
 Objects {
-  Id: 13715283790149311955
-  Name: "w"
+  Id: 15630981325951560031
+  Name: "collectableProps"
   Transform {
     Location {
-      X: 892.323486
     }
     Rotation {
     }
@@ -16,7 +15,8 @@ Objects {
     }
   }
   ParentId: 7445102165972326779
-  ChildIds: 13000486086057563634
+  ChildIds: 7569508740107381378
+  ChildIds: 3241499426166538871
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -28,11 +28,11 @@ Objects {
   }
 }
 Objects {
-  Id: 13000486086057563634
+  Id: 3241499426166538871
   Name: "Trigger"
   Transform {
     Location {
-      X: 1208.43958
+      X: 1714.70935
       Y: 745.69104
       Z: 84.1142
     }
@@ -44,9 +44,9 @@ Objects {
       Z: 3.37637711
     }
   }
-  ParentId: 13715283790149311955
-  ChildIds: 8468684212438962992
-  ChildIds: 11418316255965749398
+  ParentId: 15630981325951560031
+  ChildIds: 3107930465983266626
+  ChildIds: 11719491656403652638
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -65,7 +65,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11418316255965749398
+  Id: 11719491656403652638
   Name: "pickUpBone"
   Transform {
     Location {
@@ -81,7 +81,7 @@ Objects {
       Z: 0.29617545
     }
   }
-  ParentId: 13000486086057563634
+  ParentId: 3241499426166538871
   UnregisteredParameters {
     Overrides {
       Name: "cs:player"
@@ -107,7 +107,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8468684212438962992
+  Id: 3107930465983266626
   Name: "Bone Human Femur 01"
   Transform {
     Location {
@@ -123,8 +123,8 @@ Objects {
       Z: 0.374178022
     }
   }
-  ParentId: 13000486086057563634
-  ChildIds: 16049530677700174423
+  ParentId: 3241499426166538871
+  ChildIds: 11519199845365381738
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -148,7 +148,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16049530677700174423
+  Id: 11519199845365381738
   Name: "spinProp"
   Transform {
     Location {
@@ -161,7 +161,7 @@ Objects {
       Z: 0.791536212
     }
   }
-  ParentId: 8468684212438962992
+  ParentId: 3107930465983266626
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -173,32 +173,6 @@ Objects {
     ScriptAsset {
       Id: 9300094954744808890
     }
-  }
-}
-Objects {
-  Id: 15630981325951560031
-  Name: "collectableProps"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7445102165972326779
-  ChildIds: 7569508740107381378
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
   }
 }
 Objects {
