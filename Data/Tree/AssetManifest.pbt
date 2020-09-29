@@ -8,33 +8,6 @@
   }
 }
 Assets {
-  Id: 17925326465180611494
-  Name: "Cube"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cube_002"
-  }
-}
-Assets {
-  Id: 17911711828760765539
-  Name: "Cabinet Door"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_urb_cabinet_door_001"
-  }
-}
-Assets {
-  Id: 16132958878921067135
-  Name: "Sign Bracket - Square"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_signbracket_square_001"
-  }
-}
-Assets {
   Id: 15785632616159744013
   Name: "Tree Birch 02"
   PlatformAssetType: 1
@@ -125,15 +98,6 @@ Assets {
   }
 }
 Assets {
-  Id: 7625382804772008570
-  Name: "Glass 01 (no distortion)"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_basic_glass_001"
-  }
-}
-Assets {
   Id: 7530738191831508950
   Name: "Frosted Glass No Distortion"
   PlatformAssetType: 2
@@ -158,32 +122,5 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cube_001"
-  }
-}
-Assets {
-  Id: 4920386619550871038
-  Name: "Cylinder - Rounded Small"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cylinder_rounded_003"
-  }
-}
-Assets {
-  Id: 3433416882178080463
-  Name: "Street Sign - Rectangle"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_street-sign_rectangle_001"
-  }
-}
-Assets {
-  Id: 42978658809131988
-  Name: "Rubber Tiles 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_scf_rubber_panels_002_uv"
   }
 }

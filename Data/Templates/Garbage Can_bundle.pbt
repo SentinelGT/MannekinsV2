@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "Made for Mannekins (work in progress)\r\n\r\nClassic garbage can"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

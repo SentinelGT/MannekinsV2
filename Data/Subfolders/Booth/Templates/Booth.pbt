@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "For Mannekins (WIP)"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

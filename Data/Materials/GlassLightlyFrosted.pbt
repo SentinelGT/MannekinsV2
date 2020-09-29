@@ -2,7 +2,7 @@
   Id: 11983519082956443292
   Name: "GlassLightlyFrosted"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 2442825839419045774
     ParameterOverrides {

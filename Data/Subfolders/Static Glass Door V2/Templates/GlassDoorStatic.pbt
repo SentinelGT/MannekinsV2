@@ -330,6 +330,6 @@
   Marketplace {
     Description: "updated frame with rods"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
   DirectlyPublished: true
 }

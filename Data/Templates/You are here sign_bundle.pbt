@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "A \"you are here sign\" from a mall"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

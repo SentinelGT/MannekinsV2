@@ -2,7 +2,7 @@
   Id: 15635482880341110117
   Name: "Custom Face from Street Sign - Rectangle"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 14284845204667970251
     ParameterOverrides {

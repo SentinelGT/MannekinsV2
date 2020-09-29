@@ -2,7 +2,7 @@
   Id: 12362070019344833485
   Name: "Custom Handle from Cabinet Door"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 1776093988914288002
     ParameterOverrides {

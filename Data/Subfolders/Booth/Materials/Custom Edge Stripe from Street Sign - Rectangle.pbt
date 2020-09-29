@@ -2,7 +2,7 @@
   Id: 17119595754315385974
   Name: "Custom Edge Stripe from Street Sign - Rectangle"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 13721854105081881137
     ParameterOverrides {

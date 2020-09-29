@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "the front of a store like you\'d find at a mall"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

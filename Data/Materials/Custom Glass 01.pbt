@@ -2,7 +2,7 @@
   Id: 17994246051405984288
   Name: "Custom Glass 01"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 17765002956350320193
     ParameterOverrides {

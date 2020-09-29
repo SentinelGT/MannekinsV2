@@ -2,7 +2,7 @@
   Id: 15033033651302623108
   Name: "Custom Concrete Tiles 01_1"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 4058403284679332338
     ParameterOverrides {

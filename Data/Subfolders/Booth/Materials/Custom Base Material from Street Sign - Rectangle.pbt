@@ -2,7 +2,7 @@
   Id: 834237441865246312
   Name: "Custom Base Material from Street Sign - Rectangle"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 13346331829081576957
     ParameterOverrides {
