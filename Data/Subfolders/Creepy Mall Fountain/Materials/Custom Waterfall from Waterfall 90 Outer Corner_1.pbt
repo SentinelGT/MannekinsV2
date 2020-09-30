@@ -1,8 +1,8 @@
 ﻿Assets {
-  Id: 434313680092537034
+  Id: 6120245005647635243
   Name: "Custom Waterfall from Waterfall 90 Outer Corner_1"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 63
   CustomMaterialAsset {
     BaseMaterialId: 3886905007360380566
     ParameterOverrides {

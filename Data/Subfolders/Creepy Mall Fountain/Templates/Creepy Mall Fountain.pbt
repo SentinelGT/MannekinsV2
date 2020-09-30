@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 11110389226242706887
+  Id: 10342556206157396378
   Name: "Creepy Mall Fountain"
   PlatformAssetType: 5
   TemplateAsset {
@@ -22,7 +22,7 @@
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 10510383663269461676
+              Id: 17723708239995402501
             }
           }
         }
@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "A fountain for Mannekins (current work in progress)"
   }
-  SerializationVersion: 65
+  SerializationVersion: 63
 }

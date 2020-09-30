@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 11282526797537898501
+  Id: 1089066793758673334
   Name: "Sky Nighttime 01"
   PlatformAssetType: 5
   TemplateAsset {
@@ -471,5 +471,5 @@
       AssetId: "Sky_Nighttime_01"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 63
 }

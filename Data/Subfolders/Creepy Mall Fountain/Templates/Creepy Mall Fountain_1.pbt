@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 10510383663269461676
+  Id: 17723708239995402501
   Name: "Creepy Mall Fountain"
   PlatformAssetType: 5
   TemplateAsset {
@@ -87,7 +87,7 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4704660763563083589
+              Id: 11139310943720539840
             }
           }
           Overrides {
@@ -373,7 +373,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -455,7 +455,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -541,7 +541,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -627,7 +627,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -713,7 +713,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -800,7 +800,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -886,7 +886,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -973,7 +973,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -1060,7 +1060,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -1149,7 +1149,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -1196,7 +1196,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -1243,7 +1243,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -1290,7 +1290,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -1337,7 +1337,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -1383,7 +1383,7 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4704660763563083589
+              Id: 11139310943720539840
             }
           }
           Overrides {
@@ -1621,7 +1621,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -1703,7 +1703,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -1789,7 +1789,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -1875,7 +1875,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -1961,7 +1961,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -2048,7 +2048,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -2134,7 +2134,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -2221,7 +2221,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -2308,7 +2308,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -2443,7 +2443,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -2490,7 +2490,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -2537,7 +2537,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -2584,7 +2584,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -2631,7 +2631,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -2722,7 +2722,7 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4704660763563083589
+              Id: 11139310943720539840
             }
           }
           Overrides {
@@ -2869,7 +2869,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -2951,7 +2951,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -3037,7 +3037,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -3123,7 +3123,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -3209,7 +3209,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -3296,7 +3296,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -3382,7 +3382,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -3469,7 +3469,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -3556,7 +3556,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -3676,7 +3676,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -3758,7 +3758,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -3844,7 +3844,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -3930,7 +3930,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -4016,7 +4016,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -4103,7 +4103,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -4189,7 +4189,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -4276,7 +4276,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -4363,7 +4363,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10752448405497710611
+            Id: 896120158098010472
           }
         }
       }
@@ -4452,7 +4452,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -4499,7 +4499,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -4546,7 +4546,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -4593,7 +4593,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -4640,7 +4640,7 @@
           Overrides {
             Name: "ma:waterfall:id"
             AssetReference {
-              Id: 434313680092537034
+              Id: 6120245005647635243
             }
           }
         }
@@ -4731,7 +4731,7 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4704660763563083589
+              Id: 11139310943720539840
             }
           }
           Overrides {
@@ -5532,6 +5532,6 @@
   Marketplace {
     Description: "A fountain for Mannekins (current work in progress)"
   }
-  SerializationVersion: 65
+  SerializationVersion: 63
   DirectlyPublished: true
 }
