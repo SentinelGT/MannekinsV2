@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "A fountain for Mannekins (current work in progress)"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

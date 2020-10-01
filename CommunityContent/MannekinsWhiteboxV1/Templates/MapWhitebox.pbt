@@ -1594,6 +1594,6 @@
   Marketplace {
     Description: "Whitebox map v1 of mannekins map"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
   DirectlyPublished: true
 }
