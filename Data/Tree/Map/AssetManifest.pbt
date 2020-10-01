@@ -7,3 +7,12 @@
     AssetId: "sm_plane_1m_002"
   }
 }
+Assets {
+  Id: 10468241206327713435
+  Name: "Concrete Sidewalk"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_gen_concrete_sidewalk_001"
+  }
+}

@@ -18,6 +18,14 @@ Objects {
     }
   }
   ParentId: 1571288810510636526
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 10468241206327713435
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -36,50 +44,6 @@ Objects {
     StaticMesh {
       Physics {
       }
-    }
-  }
-}
-Objects {
-  Id: 9693200808902352341
-  Name: "MapWhitebox"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1571288810510636526
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 32874778117913616
-      value {
-        Overrides {
-          Name: "Name"
-          String: "MapWhitebox"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16100097864780716923
     }
   }
 }

@@ -1,0 +1,75 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "399828a10d0d493ab0ececf75a1a2495"
+  OwnerAccountId: "8bae16130a9f4e16b347ad0b75e34ef3"
+  OwnerName: "DaveSkulina"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 293505374540529197
+  value: 17982303341350852972
+}
+AssetIdsOriginalToNew {
+  key: 834237441865246312
+  value: 12198843685521582057
+}
+AssetIdsOriginalToNew {
+  key: 896120158098010472
+  value: 18295907706317416096
+}
+AssetIdsOriginalToNew {
+  key: 6120245005647635243
+  value: 14058866873516365054
+}
+AssetIdsOriginalToNew {
+  key: 7093270411822638270
+  value: 6593717730350378309
+}
+AssetIdsOriginalToNew {
+  key: 9291837935911200628
+  value: 5631921024325393700
+}
+AssetIdsOriginalToNew {
+  key: 10427487662140344188
+  value: 11055554067302699562
+}
+AssetIdsOriginalToNew {
+  key: 11139310943720539840
+  value: 945402796812053647
+}
+AssetIdsOriginalToNew {
+  key: 11983519082956443292
+  value: 15880646464713741378
+}
+AssetIdsOriginalToNew {
+  key: 12362070019344833485
+  value: 5287082789760842403
+}
+AssetIdsOriginalToNew {
+  key: 12948578538025485319
+  value: 2865359502223756211
+}
+AssetIdsOriginalToNew {
+  key: 13534476600772491837
+  value: 18195833304196411176
+}
+AssetIdsOriginalToNew {
+  key: 14972707527748569661
+  value: 17330970994104834681
+}
+AssetIdsOriginalToNew {
+  key: 15033033651302623108
+  value: 7257871055178929785
+}
+AssetIdsOriginalToNew {
+  key: 15635482880341110117
+  value: 11251231006407380010
+}
+AssetIdsOriginalToNew {
+  key: 17119595754315385974
+  value: 7571887588702826741
+}
+AssetIdsOriginalToNew {
+  key: 17994246051405984288
+  value: 17912789100629970779
+}
